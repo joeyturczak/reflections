@@ -9,3 +9,6 @@ You can select the only the files that are part of the logical change to commit,
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 If you want to try out a new feature while keeping a working application intact.
+
+How do the diagrams help you visualize the branch structure?
+It helps by showing how branches work and how commits are structered.
