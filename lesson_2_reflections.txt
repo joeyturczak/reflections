@@ -12,3 +12,6 @@ If you want to try out a new feature while keeping a working application intact.
 
 How do the diagrams help you visualize the branch structure?
 It helps by showing how branches work and how commits are structered.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result is one branch containing everything from both branches.
