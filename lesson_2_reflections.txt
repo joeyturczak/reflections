@@ -3,3 +3,9 @@ It creates a repository and the files needed in the directory which will allow u
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area is only what will be committed, while the working directory has everything. This allows you to make incremental logical commits.
+
+How can you use the staging area to make sure you have one commit per logical change?
+You can select the only the files that are part of the logical change to commit, and commit the others in a separate commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+If you want to try out a new feature while keeping a working application intact.
