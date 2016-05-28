@@ -15,3 +15,7 @@ It helps by showing how branches work and how commits are structered.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The result is one branch containing everything from both branches.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+Pros: If there are no conflicts, this makes things fast and easy
+Cons: None really
