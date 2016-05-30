@@ -12,3 +12,6 @@ You will have the newest changes and all of the history of the repository.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 To collaborate we would have to use DropBox or Google Drive or some other form of file sharing. I'm not sure what would be easier, but it would be harder to know what is different or how to merge the files.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When working on a project and you don't want to break the master branch. Working directly on the master could break the whole program for everyone working on it.
